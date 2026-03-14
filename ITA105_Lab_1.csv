@@ -1,0 +1,201 @@
+ProductID,Category,Price,StockQuantity,Rating,Description
+1,Clothing,51.30570602357257,18.0,1,Not worth it???
+2,Home,45.51488974301199,74.0,6,Good product!!!
+3,Electronics,51.37641164803254,-4.0,0,Cheap and useful...
+4,Clothing,20.186466280986608,122.0,0,Cheap and useful...
+5,Clothing,46.70492168243732,154.0,5,Cheap and useful...
+6,Home,55.3566885726762,78.0,6,Average item
+7,Electronics,72.16841067112274,146.0,6,High quality -- recommended
+8,Electronics,42.22594672589529,134.0,0,Average item
+9,Clothing,37.87259595660218,172.0,4,High quality -- recommended
+10,Books,42.47364434623195,157.0,5,Cheap and useful...
+11,Clothing,63.731031765531114,118.0,5,Cheap and useful...
+12,Clothing,54.93126664489527,27.0,2,Average item
+13,Clothing,42.05359694349442,155.0,6,Average item
+14,Clothing,57.699011496700344,183.0,0,High quality -- recommended
+15,,51.456163240220604,173.0,2,Not worth it???
+16,,64.52967485799334,165.0,3,High quality -- recommended
+17,Home,39.469203591839715,95.0,1,Average item
+18,Home,45.085067801033475,6.0,5,Excellent value!!!
+19,Home,44.118377703017636,61.0,3,Average item
+20,Clothing,28.04727577801822,59.0,3,Excellent value!!!
+21,Books,54.44180415596864,155.0,4,Good product!!!
+22,Electronics,53.91582908269834,162.0,1,Average item
+23,,50.07670184963691,,3,Good product!!!
+24,Home,46.481192999372794,37.0,3,Not worth it???
+25,Home,28.769438869243785,38.0,1,High quality -- recommended
+26,Books,43.69032015851961,23.0,1,Excellent value!!!
+27,Books,44.85928225209846,135.0,3,High quality -- recommended
+28,Books,37.96584096167572,6.0,1,Good product!!!
+29,Home,47.580714325009865,89.0,3,Excellent value!!!
+30,Home,56.060762852218076,40.0,3,High quality -- recommended
+31,Electronics,78.29278851815795,124.0,4,Average item
+32,Electronics,52.61866719247759,29.0,0,Cheap and useful...
+33,Home,53.86325586084146,75.0,3,Good product!!!
+34,Books,48.883311263507494,84.0,2,High quality -- recommended
+35,Books,21.21843177051438,2.0,5,Good product!!!
+36,Electronics,49.602291868261744,87.0,6,Good product!!!
+37,Home,50.9034531491154,148.0,0,Excellent value!!!
+38,Electronics,86.94863168727929,196.0,0,Excellent value!!!
+39,Electronics,47.114585528283165,84.0,0,Cheap and useful...
+40,Clothing,54.523210135004184,156.0,4,Average item
+41,Clothing,49.47932345442135,109.0,3,Good product!!!
+42,Clothing,32.46982943570702,99.0,4,High quality -- recommended
+43,Books,67.14234221772531,129.0,3,Not worth it???
+44,Home,61.27899549030161,190.0,4,Good product!!!
+45,Home,61.865479205645705,52.0,4,Good product!!!
+46,Home,36.35918817807892,108.0,5,Cheap and useful...
+47,Home,71.04191466404149,69.0,2,Average item
+48,Clothing,28.972234058115788,151.0,4,Not worth it???
+49,Books,58.80285640700406,114.0,5,Excellent value!!!
+50,Books,82.85683438714968,158.0,1,Excellent value!!!
+51,Clothing,35.14195512303968,15.0,2,High quality -- recommended
+52,Books,41.50553405595842,158.0,4,Not worth it???
+53,Clothing,51.49477047631462,132.0,6,Excellent value!!!
+54,Home,42.44786518825701,95.0,0,High quality -- recommended
+55,Clothing,26.74004853400801,195.0,1,Average item
+56,Home,51.02844462209041,146.0,1,High quality -- recommended
+57,Home,34.06544429410843,186.0,5,Excellent value!!!
+58,Electronics,57.10388645952772,171.0,1,Cheap and useful...
+59,Clothing,,93.0,2,Cheap and useful...
+60,Electronics,73.24901607526309,30.0,4,Cheap and useful...
+61,Clothing,38.251200614956446,90.0,4,Excellent value!!!
+62,Clothing,45.16907725691487,146.0,6,Cheap and useful...
+63,Electronics,62.202758260545046,145.0,0,Not worth it???
+64,Electronics,31.53703525349067,184.0,5,Average item
+65,Clothing,53.41189901906194,31.0,0,High quality -- recommended
+66,Books,69.60714131423643,6.0,1,High quality -- recommended
+67,Home,25.88775148158159,107.0,6,Excellent value!!!
+68,Electronics,52.769507877984566,177.0,0,Cheap and useful...
+69,Home,53.89824191372635,,2,Cheap and useful...
+70,Books,61.72734307665966,17.0,4,Good product!!!
+71,Books,31.445739336828773,93.0,1,Average item
+72,Books,30.193150803735854,99.0,6,Not worth it???
+73,Electronics,57.829123484253465,24.0,0,High quality -- recommended
+74,Books,54.45477009849779,11.0,5,Good product!!!
+75,Electronics,53.75739275518815,107.0,2,Good product!!!
+76,Books,55.19672314245464,56.0,2,Excellent value!!!
+77,Home,39.79962917632264,78.0,0,High quality -- recommended
+78,Home,53.48380545741505,106.0,4,Excellent value!!!
+79,Clothing,54.39608709948022,80.0,0,Not worth it???
+80,Home,39.28472872960448,,1,Good product!!!
+81,Clothing,77.98661766717134,181.0,0,Good product!!!
+82,Home,57.10749381367681,13.0,2,Average item
+83,Electronics,32.13044754196027,171.0,6,Not worth it???
+84,Home,59.84830412950745,94.0,0,Good product!!!
+85,Clothing,35.379774946590175,134.0,4,Not worth it???
+86,Clothing,61.806269056136784,183.0,6,High quality -- recommended
+87,Books,67.37893368511106,,5,Cheap and useful...
+88,Electronics,37.68976522472434,70.0,3,Good product!!!
+89,Home,64.45064193866483,3.0,0,Average item
+90,Books,56.191713904047475,193.0,4,High quality -- recommended
+91,Home,62.33090239991735,22.0,6,Not worth it???
+92,Home,78.4518947398092,122.0,4,Excellent value!!!
+93,Books,46.31917825995694,46.0,5,High quality -- recommended
+94,Books,38.693957534637654,77.0,2,Good product!!!
+95,Books,36.65728355561715,105.0,4,Not worth it???
+96,Books,,138.0,6,Cheap and useful...
+97,Books,48.843474358788434,111.0,4,High quality -- recommended
+98,Home,55.117279622249654,63.0,4,Good product!!!
+99,Books,54.150361989950284,93.0,4,Average item
+100,Electronics,62.40774873554036,134.0,1,Excellent value!!!
+101,Clothing,,19.0,1,Not worth it???
+102,Books,71.80301115735975,174.0,2,High quality -- recommended
+103,Books,46.03014750143066,117.0,0,High quality -- recommended
+104,Home,90.80253749884429,47.0,4,Cheap and useful...
+105,Books,59.385010216475095,145.0,5,Cheap and useful...
+106,Books,37.14263665375576,138.0,0,Average item
+107,Books,33.93661252908332,51.0,5,Excellent value!!!
+108,Home,57.23708622864778,33.0,0,Average item
+109,Books,46.64805822011223,103.0,2,Good product!!!
+110,Clothing,60.71000741138138,175.0,4,Good product!!!
+111,Home,57.09856436860317,36.0,4,Average item
+112,Clothing,48.90756631014691,180.0,3,Excellent value!!!
+113,Home,37.29809422897392,161.0,5,Average item
+114,Books,27.277291629712032,136.0,0,Excellent value!!!
+115,Clothing,43.302275718994686,116.0,0,Excellent value!!!
+116,Home,62.84598191485209,127.0,1,Not worth it???
+117,Electronics,53.21140616195306,157.0,3,Excellent value!!!
+118,Books,31.31391831932018,69.0,6,Cheap and useful...
+119,Home,52.59771388776773,140.0,6,Excellent value!!!
+120,Electronics,55.77976069593255,70.0,1,Excellent value!!!
+121,Home,36.74213845698301,3.0,1,Excellent value!!!
+122,Electronics,52.305876589182915,68.0,1,Good product!!!
+123,Books,50.87313077669,180.0,5,Cheap and useful...
+124,Clothing,32.85544553254066,139.0,5,Cheap and useful...
+125,Electronics,55.36681040522425,1.0,2,Average item
+126,Home,58.41176789552352,168.0,2,Not worth it???
+127,Books,66.24576864762915,135.0,1,Excellent value!!!
+128,Electronics,65.80703078052355,162.0,3,High quality -- recommended
+129,Home,29.334959480643633,164.0,0,Not worth it???
+130,Home,35.93262440127316,131.0,5,Not worth it???
+131,Home,57.7255290081299,172.0,3,Cheap and useful...
+132,Electronics,57.706789263683135,21.0,4,Not worth it???
+133,Electronics,57.72571529459072,116.0,5,Excellent value!!!
+134,Electronics,107.79097235982081,188.0,5,Excellent value!!!
+135,Clothing,58.56335766039751,-1.0,2,Good product!!!
+136,Electronics,67.03348460270898,23.0,0,Excellent value!!!
+137,Electronics,64.31002645239803,159.0,0,Excellent value!!!
+138,Electronics,,160.0,6,Cheap and useful...
+139,Clothing,45.27096133039482,77.0,6,Excellent value!!!
+140,Electronics,61.38453830739901,130.0,6,Good product!!!
+141,Home,38.40762178193643,103.0,6,High quality -- recommended
+142,Electronics,46.44772089889987,59.0,4,Cheap and useful...
+143,Home,42.71954678256345,80.0,4,High quality -- recommended
+144,Home,51.22811209079484,139.0,5,Cheap and useful...
+145,Home,84.71987850010262,65.0,1,Average item
+146,Clothing,21.99102211112378,39.0,2,Not worth it???
+147,Clothing,60.2939028556177,126.0,2,Average item
+148,Clothing,25.809261932155223,30.0,6,Excellent value!!!
+149,Electronics,42.9210220131585,,5,High quality -- recommended
+150,,66.33425895451049,153.0,3,Excellent value!!!
+151,Clothing,50.96420028643194,13.0,1,Not worth it???
+152,Clothing,33.83382833106041,183.0,5,Cheap and useful...
+153,Electronics,39.27044436110047,102.0,1,Not worth it???
+154,Clothing,60.19396623402014,176.0,1,Good product!!!
+155,Electronics,39.04450052424295,161.0,1,Not worth it???
+156,Books,53.246878843729625,85.0,5,Good product!!!
+157,Clothing,50.68357759855721,196.0,6,Not worth it???
+158,Books,40.22599478591275,84.0,2,Good product!!!
+159,Electronics,82.15916133987989,13.0,2,High quality -- recommended
+160,Home,59.50878533477017,33.0,6,Excellent value!!!
+161,Clothing,19.622861200135894,120.0,1,Excellent value!!!
+162,Electronics,,189.0,3,Average item
+163,Home,40.07320302847418,167.0,0,Excellent value!!!
+164,Home,62.78650002194336,135.0,5,Cheap and useful...
+165,Books,38.11218892350949,120.0,0,Not worth it???
+166,Electronics,48.278953377996515,52.0,6,Average item
+167,Home,57.57480918470686,142.0,3,Cheap and useful...
+168,Clothing,62.98632791255182,194.0,5,Cheap and useful...
+169,Clothing,31.995553894163358,55.0,6,Good product!!!
+170,Books,44.98248146238578,121.0,1,Excellent value!!!
+171,Home,42.87582033258566,99.0,2,High quality -- recommended
+172,Electronics,40.200061511394324,161.0,0,High quality -- recommended
+173,Clothing,76.48181360421646,-5.0,4,Average item
+174,Home,56.07472566441433,125.0,4,High quality -- recommended
+175,Home,31.086740684974323,199.0,3,Not worth it???
+176,Books,63.767929205821645,86.0,1,High quality -- recommended
+177,Clothing,81.8323429551895,184.0,0,Average item
+178,Clothing,65.4869789082672,185.0,1,High quality -- recommended
+179,Electronics,27.2094505106898,107.0,0,Not worth it???
+180,Clothing,42.73648890700623,147.0,3,Good product!!!
+181,Electronics,69.00366723779933,50.0,3,Average item
+182,Clothing,39.38495801571829,155.0,4,Good product!!!
+183,,56.657291422193424,160.0,1,Good product!!!
+184,Clothing,61.61951080144005,111.0,5,Good product!!!
+185,Electronics,36.09604292632876,128.0,4,Cheap and useful...
+186,Electronics,49.107119659073,52.0,1,Excellent value!!!
+187,Books,1.380989898963911,38.0,4,Cheap and useful...
+188,Clothing,34.63418537998565,167.0,5,Excellent value!!!
+189,Clothing,46.2114777291026,154.0,2,Good product!!!
+190,Books,31.283252270527257,167.0,2,Average item
+191,Clothing,74.48616955897452,55.0,2,Excellent value!!!
+192,Clothing,28.54787933059051,41.0,2,Not worth it???
+193,Electronics,43.39933269954524,143.0,6,Not worth it???
+194,Clothing,51.96110865929137,74.0,0,High quality -- recommended
+195,Clothing,71.61909933599173,112.0,6,Excellent value!!!
+196,Books,28.46206773230841,197.0,6,Average item
+197,Books,67.4474562823244,158.0,6,Cheap and useful...
+198,Home,50.1534959152938,141.0,2,Good product!!!
+199,Electronics,35.27737023428074,14.0,5,High quality -- recommended
+200,Clothing,56.93155211394906,179.0,3,Not worth it???
