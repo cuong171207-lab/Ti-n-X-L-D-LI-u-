@@ -1,0 +1,151 @@
+hotel_name,customer_type,rating,review_text
+Grand Palace,Couple,1,Khách sạn khá cũ nhưng sạch sẽ
+Lotus Hotel,Couple,1,Giường ngủ mềm và phòng rất sạch
+Sunrise Hotel,Business,3,Khách sạn khá cũ nhưng sạch sẽ
+Grand Palace,Couple,2,Phòng sạch sẽ và thoải mái
+Grand Palace,Business,5,Phòng có mùi nhưng nhân viên nhiệt tình
+Lotus Hotel,Leisure,4,Phòng có mùi nhưng nhân viên nhiệt tình
+Sunrise Hotel,Couple,2,Bữa sáng ngon nhưng phòng tắm chưa sạch
+Sunrise Hotel,Leisure,4,Phòng có mùi nhưng nhân viên nhiệt tình
+Grand Palace,Business,3,Bữa sáng ngon nhưng phòng tắm chưa sạch
+Seaview Resort,Family,3,Khách sạn khá cũ nhưng sạch sẽ
+Grand Palace,Couple,1,Nhân viên thân thiện và hỗ trợ tốt
+Grand Palace,Business,5,"Dịch vụ tốt, vị trí thuận tiện"
+Grand Palace,Family,4,"Dịch vụ tốt, vị trí thuận tiện"
+Grand Palace,Family,2,Khách sạn khá cũ nhưng sạch sẽ
+Lotus Hotel,Leisure,3,Dịch vụ tuyệt vời nhưng hơi ồn
+Sunrise Hotel,Business,1,Dịch vụ tuyệt vời nhưng hơi ồn
+Lotus Hotel,Family,1,Phòng có mùi nhưng nhân viên nhiệt tình
+Lotus Hotel,Couple,4,"Dịch vụ tốt, vị trí thuận tiện"
+Lotus Hotel,Couple,3,"Dịch vụ tốt, vị trí thuận tiện"
+Grand Palace,Leisure,5,Bữa sáng ngon nhưng phòng tắm chưa sạch
+Seaview Resort,Family,3,Nhân viên thân thiện và hỗ trợ tốt
+Sunrise Hotel,Business,4,Phòng sạch sẽ và thoải mái
+Seaview Resort,Couple,4,Dịch vụ tuyệt vời nhưng hơi ồn
+Lotus Hotel,Family,3,"Dịch vụ tốt, vị trí thuận tiện"
+Lotus Hotel,Family,4,Bữa sáng ngon nhưng phòng tắm chưa sạch
+Seaview Resort,Leisure,3,Giường ngủ mềm và phòng rất sạch
+Seaview Resort,Couple,2,Bữa sáng ngon nhưng phòng tắm chưa sạch
+Seaview Resort,Couple,3,Dịch vụ tuyệt vời nhưng hơi ồn
+Lotus Hotel,Business,3,Dịch vụ tuyệt vời nhưng hơi ồn
+Lotus Hotel,Couple,4,Bữa sáng ngon nhưng phòng tắm chưa sạch
+Sunrise Hotel,Business,4,Phòng sạch sẽ và thoải mái
+Sunrise Hotel,Couple,1,Khách sạn khá cũ nhưng sạch sẽ
+Lotus Hotel,Leisure,1,Dịch vụ tuyệt vời nhưng hơi ồn
+Seaview Resort,Couple,2,Bữa sáng ngon nhưng phòng tắm chưa sạch
+Seaview Resort,Business,1,
+Sunrise Hotel,Business,3,Bữa sáng ngon nhưng phòng tắm chưa sạch
+Lotus Hotel,Leisure,4,Nhân viên thân thiện và hỗ trợ tốt
+Sunrise Hotel,Couple,1,Khách sạn khá cũ nhưng sạch sẽ
+Sunrise Hotel,Couple,1,Giường ngủ mềm và phòng rất sạch
+Grand Palace,Leisure,2,Phòng sạch sẽ và thoải mái
+Grand Palace,Couple,2,Phòng có mùi nhưng nhân viên nhiệt tình
+Grand Palace,,3,Giường ngủ mềm và phòng rất sạch
+Seaview Resort,,4,Khách sạn khá cũ nhưng sạch sẽ
+Lotus Hotel,Couple,2,Khách sạn khá cũ nhưng sạch sẽ
+Lotus Hotel,Couple,1,Khách sạn khá cũ nhưng sạch sẽ
+Lotus Hotel,Leisure,4,Giường ngủ mềm và phòng rất sạch
+Lotus Hotel,Leisure,4,"Dịch vụ tốt, vị trí thuận tiện"
+Grand Palace,Family,1,Khách sạn khá cũ nhưng sạch sẽ
+Seaview Resort,Business,2,Bữa sáng ngon nhưng phòng tắm chưa sạch
+Seaview Resort,Couple,1,Giường ngủ mềm và phòng rất sạch
+Grand Palace,Couple,4,Phòng có mùi nhưng nhân viên nhiệt tình
+Seaview Resort,Family,5,Khách sạn khá cũ nhưng sạch sẽ
+Grand Palace,Couple,5,Bữa sáng ngon nhưng phòng tắm chưa sạch
+Lotus Hotel,Business,3,"Dịch vụ tốt, vị trí thuận tiện"
+Grand Palace,Family,1,Nhân viên thân thiện và hỗ trợ tốt
+Lotus Hotel,Business,1,"Dịch vụ tốt, vị trí thuận tiện"
+Lotus Hotel,Family,3,Phòng có mùi nhưng nhân viên nhiệt tình
+Sunrise Hotel,Family,3,Khách sạn khá cũ nhưng sạch sẽ
+Grand Palace,Leisure,3,Phòng có mùi nhưng nhân viên nhiệt tình
+Sunrise Hotel,Business,4,Giường ngủ mềm và phòng rất sạch
+Grand Palace,Couple,1,Dịch vụ tuyệt vời nhưng hơi ồn
+Grand Palace,Couple,4,Khách sạn khá cũ nhưng sạch sẽ
+,Business,3,Dịch vụ tuyệt vời nhưng hơi ồn
+Sunrise Hotel,Couple,1,Bữa sáng ngon nhưng phòng tắm chưa sạch
+Grand Palace,Couple,4,
+Seaview Resort,Business,4,Phòng sạch sẽ và thoải mái
+Lotus Hotel,Family,3,Phòng có mùi nhưng nhân viên nhiệt tình
+Sunrise Hotel,Business,1,"Dịch vụ tốt, vị trí thuận tiện"
+Lotus Hotel,Family,3,Nhân viên thân thiện và hỗ trợ tốt
+Seaview Resort,Couple,1,Khách sạn khá cũ nhưng sạch sẽ
+Seaview Resort,Couple,5,Dịch vụ tuyệt vời nhưng hơi ồn
+Seaview Resort,Couple,2,"Dịch vụ tốt, vị trí thuận tiện"
+Sunrise Hotel,Leisure,2,Dịch vụ tuyệt vời nhưng hơi ồn
+Seaview Resort,Family,2,Giường ngủ mềm và phòng rất sạch
+Sunrise Hotel,Leisure,3,Dịch vụ tuyệt vời nhưng hơi ồn
+Seaview Resort,Leisure,5,Giường ngủ mềm và phòng rất sạch
+Lotus Hotel,Business,1,Bữa sáng ngon nhưng phòng tắm chưa sạch
+Lotus Hotel,Leisure,4,"Dịch vụ tốt, vị trí thuận tiện"
+Grand Palace,Business,1,"Dịch vụ tốt, vị trí thuận tiện"
+Lotus Hotel,Business,4,Phòng sạch sẽ và thoải mái
+Grand Palace,Leisure,1,Khách sạn khá cũ nhưng sạch sẽ
+Lotus Hotel,Family,5,Giường ngủ mềm và phòng rất sạch
+Sunrise Hotel,Family,4,Phòng sạch sẽ và thoải mái
+Lotus Hotel,Family,3,Dịch vụ tuyệt vời nhưng hơi ồn
+Grand Palace,Family,1,Dịch vụ tuyệt vời nhưng hơi ồn
+Grand Palace,Family,1,Phòng sạch sẽ và thoải mái
+Seaview Resort,Leisure,4,"Dịch vụ tốt, vị trí thuận tiện"
+Sunrise Hotel,Leisure,3,Dịch vụ tuyệt vời nhưng hơi ồn
+Lotus Hotel,Couple,3,Phòng có mùi nhưng nhân viên nhiệt tình
+Seaview Resort,Family,5,Bữa sáng ngon nhưng phòng tắm chưa sạch
+Lotus Hotel,Leisure,3,Bữa sáng ngon nhưng phòng tắm chưa sạch
+Lotus Hotel,Couple,3,Phòng có mùi nhưng nhân viên nhiệt tình
+Seaview Resort,Family,3,Phòng sạch sẽ và thoải mái
+Seaview Resort,Business,2,Phòng có mùi nhưng nhân viên nhiệt tình
+Seaview Resort,Couple,5,Giường ngủ mềm và phòng rất sạch
+Seaview Resort,Leisure,1,Giường ngủ mềm và phòng rất sạch
+Seaview Resort,Business,4,Phòng sạch sẽ và thoải mái
+Lotus Hotel,Business,1,Phòng có mùi nhưng nhân viên nhiệt tình
+Seaview Resort,Business,5,Giường ngủ mềm và phòng rất sạch
+,Couple,4,"Dịch vụ tốt, vị trí thuận tiện"
+Grand Palace,Leisure,5,Phòng có mùi nhưng nhân viên nhiệt tình
+Seaview Resort,Business,3,"Dịch vụ tốt, vị trí thuận tiện"
+Seaview Resort,Family,4,Giường ngủ mềm và phòng rất sạch
+Lotus Hotel,Business,3,Bữa sáng ngon nhưng phòng tắm chưa sạch
+Seaview Resort,Business,1,Giường ngủ mềm và phòng rất sạch
+Seaview Resort,Couple,1,"Dịch vụ tốt, vị trí thuận tiện"
+Seaview Resort,Couple,4,Nhân viên thân thiện và hỗ trợ tốt
+Lotus Hotel,Leisure,4,Khách sạn khá cũ nhưng sạch sẽ
+Seaview Resort,Family,5,Dịch vụ tuyệt vời nhưng hơi ồn
+Grand Palace,,5,Phòng có mùi nhưng nhân viên nhiệt tình
+Lotus Hotel,Business,3,Nhân viên thân thiện và hỗ trợ tốt
+Grand Palace,Leisure,4,Giường ngủ mềm và phòng rất sạch
+Lotus Hotel,Business,1,Bữa sáng ngon nhưng phòng tắm chưa sạch
+Seaview Resort,Business,5,Phòng sạch sẽ và thoải mái
+Grand Palace,Couple,5,Giường ngủ mềm và phòng rất sạch
+Lotus Hotel,Leisure,1,Bữa sáng ngon nhưng phòng tắm chưa sạch
+Sunrise Hotel,Family,5,Khách sạn khá cũ nhưng sạch sẽ
+Seaview Resort,Family,3,Giường ngủ mềm và phòng rất sạch
+Lotus Hotel,Couple,4,"Dịch vụ tốt, vị trí thuận tiện"
+Sunrise Hotel,Couple,1,Phòng sạch sẽ và thoải mái
+Lotus Hotel,Leisure,4,Bữa sáng ngon nhưng phòng tắm chưa sạch
+Sunrise Hotel,Family,5,Bữa sáng ngon nhưng phòng tắm chưa sạch
+Seaview Resort,Family,5,Bữa sáng ngon nhưng phòng tắm chưa sạch
+Grand Palace,Family,1,Khách sạn khá cũ nhưng sạch sẽ
+Sunrise Hotel,Business,3,Giường ngủ mềm và phòng rất sạch
+Lotus Hotel,Family,2,Khách sạn khá cũ nhưng sạch sẽ
+Seaview Resort,Business,1,Phòng có mùi nhưng nhân viên nhiệt tình
+Sunrise Hotel,Leisure,2,Dịch vụ tuyệt vời nhưng hơi ồn
+Lotus Hotel,Business,2,Dịch vụ tuyệt vời nhưng hơi ồn
+Lotus Hotel,Leisure,3,Phòng có mùi nhưng nhân viên nhiệt tình
+Lotus Hotel,Family,2,Giường ngủ mềm và phòng rất sạch
+Sunrise Hotel,Family,2,"Dịch vụ tốt, vị trí thuận tiện"
+Sunrise Hotel,Leisure,3,Khách sạn khá cũ nhưng sạch sẽ
+Sunrise Hotel,Couple,2,Phòng sạch sẽ và thoải mái
+Grand Palace,Leisure,2,Bữa sáng ngon nhưng phòng tắm chưa sạch
+Sunrise Hotel,Couple,2,Bữa sáng ngon nhưng phòng tắm chưa sạch
+Sunrise Hotel,Business,1,Giường ngủ mềm và phòng rất sạch
+Sunrise Hotel,Business,1,"Dịch vụ tốt, vị trí thuận tiện"
+Grand Palace,Business,1,Dịch vụ tuyệt vời nhưng hơi ồn
+Sunrise Hotel,Family,3,Dịch vụ tuyệt vời nhưng hơi ồn
+Lotus Hotel,Business,5,Bữa sáng ngon nhưng phòng tắm chưa sạch
+Sunrise Hotel,Couple,2,Giường ngủ mềm và phòng rất sạch
+Lotus Hotel,Business,2,Khách sạn khá cũ nhưng sạch sẽ
+,Leisure,3,Dịch vụ tuyệt vời nhưng hơi ồn
+Lotus Hotel,Leisure,2,Khách sạn khá cũ nhưng sạch sẽ
+Grand Palace,Family,1,"Dịch vụ tốt, vị trí thuận tiện"
+Grand Palace,Leisure,5,Dịch vụ tuyệt vời nhưng hơi ồn
+Grand Palace,Couple,4,Dịch vụ tuyệt vời nhưng hơi ồn
+Sunrise Hotel,Business,2,
+Lotus Hotel,Family,1,Dịch vụ tuyệt vời nhưng hơi ồn
